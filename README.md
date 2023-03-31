@@ -12,7 +12,7 @@
 - Crear App_Key -> ejecutar php artisan key:generate
 - Ejecutar php artisan migrate
 
-## El servidor apache está configurado en un vps de digital oceam
+## El servidor apache está configurado en un vps de digital oceam con nginx
 
 ## About Laravel
 
