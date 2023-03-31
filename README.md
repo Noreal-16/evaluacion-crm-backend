@@ -6,12 +6,13 @@
 - MySql
 
 ## Instalación
-- Ejecutar Composer install
+- Ejecutar Composer install 
 - Copiar el archivo .env_original (cp .env_original .env)
 - Modificar variables del archivo .env de acuedo al ambiente
 - Crear App_Key -> ejecutar php artisan key:generate
 - Ejecutar php artisan migrate
-- Ejecutar npm install
+
+## El servidor apache está configurado en un vps de digital oceam
 
 ## About Laravel
 
